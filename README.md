@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Ruiz</h1>
+<h1 align="center">Hola 👋, Soy Gabriel Ruiz</h1>
 <h3 align="center">Recien Egresado Sistemas Computacionales.</h3>
 
 - 💬 Ask me about **Html,Css,Python y Reactjs**
@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel ruiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel ruiz" height="30" width="40" /></a>
-<a href="https://instagram.com/gabo.coria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabo.coria" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
